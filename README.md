@@ -1,1 +1,1 @@
-# Helping-ngo [https://helpingngo.dev/](https://balwantprak.github.io/Helping-NGOs/)          
+# Helping-ngo https://balwantprak.github.io/Helping-NGOs/
