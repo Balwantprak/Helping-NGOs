@@ -1,3 +1,1 @@
-# Helping-ngo https://helpingngo.dev/
-# https://storage.googleapis.com/helpingngo/index.html
-              
+# Helping-ngo [https://helpingngo.dev/](https://balwantprak.github.io/Helping-NGOs/)          
